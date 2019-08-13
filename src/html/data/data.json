@@ -1,17 +1,15 @@
 {
-    "copy"           : "AppSeed", 
-    "email"          : "support@appseed.us",
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
     "design"         : "Lens by Pixelarity",
 
-    "seo_title"      : "JAMstack - Lens design by Pixelarity | AppSeed",
-    "seo_desc"       : "JAMstack app with Lens design crafted by top Pixelarity.",
+    "seo_title"      : "Creare Site - Lens design | WebsiteMarket",
+    "seo_desc"       : "Website de prezentare rapid, cu un design modern. Un produs Websitemarket",
 
-    "product"        : "https://github.com/app-generator/priv-jamstack-lens", 
-    "github"         : "https://github.com/app-generator/priv-jamstack-lens",
-    "facebook"       : "https://facebook.com/webappseed",
-    "twitter"        : "https://twitter.com/webappseed",
-    "support"        : "https://appseed.us/support",
-    "discord"        : "https://discord.gg/fZC6hup",
+    "product"        : "https://websitemarket.ro/", 
+    "github"         : "https://github.com/creare-site/creare-site-lens",
+    "facebook"       : "https://facebook.com/websitemarketro",
+    "twitter"        : "https://twitter.com/websitemarketro",
 
     "LAST_KEY" : "NA"
 }
