@@ -1,4 +1,4 @@
-# [Creare Site Lens](https://creare-site-lens.websitemarket.ro/) - Site Prezentare
+# [Creare Site Lens](https://creare-site-lens.websitemarket.ro/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-Site Prezentare - [Lens](https://creare-site-lens.websitemarket.ro/) un produs **WebsiteMarket**
+[Creare Site Lens](https://creare-site-lens.websitemarket.ro/) un produs **WebsiteMarket**
